@@ -1,3 +1,11 @@
+# Netflix GPT
+- Create React App
+- Header
+- Login Form
+- Sign Up Form
+
+
+
 # Features
 -Login/Sign Up
     - Sign In/Sign Up form
