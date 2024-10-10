@@ -1,14 +1,14 @@
 # Features
 -Login/Sign Up
-    -Sign In/Sign Up form
-    -redirect to Browser Pagr
+    - Sign In/Sign Up form
+    - redirect to Browser Pagr
 -Browse(after authentication)
-    -Header
-    -Main Movie
-        -Tailer in Background
-        -Title & Description
-        -MovieSuggestions
+    - Header
+    - Main Movie
+        - Tailer in Background
+        - Title & Description
+        - MovieSuggestions
             -MovieLists*N
 -NetflixGPt
-    -Search Bar
-    -Movie Suggestions
+    - Search Bar
+    - Movie Suggestions
